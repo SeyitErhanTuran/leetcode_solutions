@@ -29,7 +29,7 @@ Each solution is well-structured and documented for learning and interview prepa
 
 ## ✅ Progress
 
-* **Solved Problems:** 1
+* **Solved Problems:** 2
 * **Languages Used:** Python 3
 * **Last Updated:** September 2025
 
