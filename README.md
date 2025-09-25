@@ -19,12 +19,7 @@ Each solution is well-structured and documented for learning and interview prepa
 
   Example:
   `1_two_sum.py`
-
-* For each problem, I aim to provide:
-
-  * **Brute Force Solution** (to understand the basic logic)
-  * **Optimized Solution** (to achieve better time complexity)
-
+  
 ---
 
 ## ✅ Progress
