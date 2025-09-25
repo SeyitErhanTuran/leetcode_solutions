@@ -38,6 +38,7 @@ Each solution is well-structured and documented for learning and interview prepa
 ## 🚀 Solved Problems
 
 * [1. Two Sum](1_two_sum.py) ✅
+* [258. Add Digits](258_add_digits.py) ✅
 
 ---
 
