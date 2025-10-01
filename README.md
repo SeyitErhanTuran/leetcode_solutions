@@ -24,9 +24,8 @@ Each solution is well-structured and documented for learning and interview prepa
 
 ## ✅ Progress
 
-* **Solved Problems:** 3
+* **Solved Problems:** 4
 * **Languages Used:** Python 3
-* **Last Updated:** September 2025
 
 ---
 
@@ -35,7 +34,7 @@ Each solution is well-structured and documented for learning and interview prepa
 * [1. Two Sum](1_two_sum.py) ✅
 * [258. Add Digits](258_add_digits.py) ✅
 * [357. First Unique Character in a String](387_first_unique_character_in_a_string.py) ✅
-
+* [2974. Minimum Number Game](2974_minimum_number_game.py) ✅
 
 ---
 
