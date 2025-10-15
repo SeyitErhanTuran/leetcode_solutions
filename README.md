@@ -24,7 +24,7 @@ Each solution is well-structured and documented for learning and interview prepa
 
 ## ✅ Progress
 
-* **Solved Problems:** 4
+* **Solved Problems:** 5
 * **Languages Used:** Python 3
 
 ---
@@ -35,6 +35,7 @@ Each solution is well-structured and documented for learning and interview prepa
 * [258. Add Digits](258_add_digits.py) ✅
 * [357. First Unique Character in a String](387_first_unique_character_in_a_string.py) ✅
 * [2974. Minimum Number Game](2974_minimum_number_game.py) ✅
+* [1832. Check if the Sentence Is Pangram](1832_check_if_sentence_is_pangram.py) ✅
 
 ---
 
