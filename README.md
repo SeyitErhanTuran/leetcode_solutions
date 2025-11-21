@@ -24,7 +24,7 @@ Each solution is well-structured and documented for learning and interview prepa
 
 ## ✅ Progress
 
-* **Solved Problems:** 5
+* **Solved Problems:** 6
 * **Languages Used:** Python 3
 
 ---
@@ -36,6 +36,7 @@ Each solution is well-structured and documented for learning and interview prepa
 * [357. First Unique Character in a String](387_first_unique_character_in_a_string.py) ✅
 * [2974. Minimum Number Game](2974_minimum_number_game.py) ✅
 * [1832. Check if the Sentence Is Pangram](1832_check_if_sentence_is_pangram.py) ✅
+* [2114. Maximum Number of Words Found in Sentences](2114_maximum_number_of_words_found_in_sentences.py) ✅
 
 ---
 
